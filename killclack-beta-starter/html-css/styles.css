@@ -1,0 +1,10 @@
+body { background: #f5f5f5; }
+.user { background: #fff; margin: 8px 0; }
+.avatar { border-radius: 50%; }
+
+/* Redundant rules - not used in HTML */
+.container { padding: 20px; }
+.button { color: #004; border: 1px solid #004; }
+.hidden { display: none; }
+/* Unused rule */
+#footer { font-size: 12px; }
