@@ -49,7 +49,7 @@ Welcome! This repository is designed to beta test a voice-driven coding assistan
 
 ---
 
-### 🎁 Secret Challenge: Hidden EEGG for Swag
+### 🎁 Secret Challenge: Hidden Easter Egg for Swag 🥚
 
 There’s a secret easter egg hidden somewhere in the code. If you find it and find it and claim your prize with the instruction provided in the easter egg! 
 
